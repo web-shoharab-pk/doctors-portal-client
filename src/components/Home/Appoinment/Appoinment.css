@@ -1,0 +1,15 @@
+.appoinment-container{
+    height: 45rem;
+    width: 100%;  
+    background-image: url('../../images/appointmentBg.png'); 
+    background-position: center;
+    background-size:  cover; 
+    position: relative;
+    margin-top: 200px;
+    background-color: #3C4356;
+    opacity: .8;   
+}
+ 
+.appoinmentDoctor img{
+    transform: translate(-250px, -235px);
+}
