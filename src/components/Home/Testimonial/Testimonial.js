@@ -28,7 +28,7 @@ const TestimonialData = [
 
 const Testimonial = () => {
     return (
-        <section className=" container">
+        <section className=" container my-5">
             <div style={{marginTop: '100px' }} className="d-flex p-3  justify-content-between">
                 <div>
                     <h2 style={{color: '#14D1CE'}}>TESTIMONIAL</h2>

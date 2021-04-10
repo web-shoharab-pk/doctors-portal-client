@@ -7,8 +7,8 @@ const ExceptionalDental = () => {
         <section className=" container">
             <div className="row">
                 <div className="col-md-6">
-                    <div className="py-3 px-1 text-center">
-                        <img className="w-75" src={ExceptionalDentalImage} class="img-fluid" alt="..." />
+                    <div className="py-3 px-1 w-75 text-center">
+                        <img className="w-100" src={ExceptionalDentalImage} class="img-fluid" alt="..." />
                     </div>
 
                 </div>
@@ -21,7 +21,7 @@ const ExceptionalDental = () => {
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta nulla quis non, rerum totam eaque, autem possimus, et accusantium optio facere harum corporis dignissimos! Voluptatem iusto culpa laboriosam deleniti laborum. Facere quos ex modi vel obcaecati labore laboriosam veritatis minima!
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta nulla quis non, rerum totam eaque, autem possimus, et accusantium optio facere harum corporis dignissimos! Voluptatem iusto culpa laboriosam deleniti laborum. Facere quos ex modi vel obcaecati labore laboriosam veritatis minima!
                         </p>
-                        <button style={{backgroundColor: '#0FCFEA'}} className="btn">Learn more</button>
+                        <button style={{backgroundColor: '#0FCFEA'}} className="btn text-light fw-bold">Learn more</button>
                     </div>
                 </div>
             </div>
