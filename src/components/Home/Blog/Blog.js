@@ -36,7 +36,7 @@ const Blog = () => {
                         <h3 className="mt-5 text-light">
                             Check at least doctor in <br /> a  year for your teeth
                         </h3>
-                        <button className="btn btn-info px-5 mt-5" >GO...</button>
+                        <button className="btn btn-info text-light fw-bold px-5 mt-5" >GO...</button>
                     </div>
                 </div>
                 <div className="row">

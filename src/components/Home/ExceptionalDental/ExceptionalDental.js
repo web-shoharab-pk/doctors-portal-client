@@ -8,7 +8,7 @@ const ExceptionalDental = () => {
             <div className="row">
                 <div className="col-md-6">
                     <div className="py-3 px-1 w-75 text-center">
-                        <img className="w-100" src={ExceptionalDentalImage} class="img-fluid" alt="..." />
+                        <img className="w-100 img-fluid" src={ExceptionalDentalImage}  alt="..." />
                     </div>
 
                 </div>

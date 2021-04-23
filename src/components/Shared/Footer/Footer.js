@@ -7,7 +7,7 @@ import './Footer.css';
 
 const Footer = () => {
     return (
-        <footer className=" footer container py-5 px-3 my-5">
+        <footer className=" footer container py-5 px-3 mt-5">
             <div className=" d-flex justify-content-between">
                 <h1 className="text-info">Services</h1><h1 className="text-info">Oral Health</h1>   <h1 className="text-info">OUR ADDRESS</h1></div>
             <div className="row d-flex justify-content-between">
@@ -50,7 +50,7 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            <p className="text-center mt-5 text-secondary">Copyrights {new Date().getFullYear()} all rights reserve by web-shoharab-pk</p>
+            <p className="text-center mt-3 text-secondary">Copyrights {new Date().getFullYear()} all rights reserve by web-shoharab-pk</p>
         </footer>
     );
 };

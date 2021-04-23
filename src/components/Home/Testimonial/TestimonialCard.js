@@ -1,8 +1,8 @@
 import React from 'react';
 import './TestimonialCard.css'
 
-const TestimonialCard = ({info}) => {
-    console.log(info);
+const TestimonialCard = ({info}) => { 
+    
     return (
         <div className="col-md-4 mt-3">
             <div className="p-3  text-center card">

@@ -12,6 +12,7 @@ body{
     background-repeat: no-repeat;
     z-index: 0;
 }
+
 .headerDiv::after {
     height: 100%;
     content: ' ';
@@ -21,5 +22,5 @@ body{
     width: 20%; 
     background-color: #3A4256;
     z-index: -1;
+    
 }
- 
